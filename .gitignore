@@ -1,0 +1,45 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Dependency management
+pip-log.txt
+requirements.txt.md5
+
+# Documentation
+docs/_build/
+site/
+
+# Local development
+local_settings.py
+instance/
+.webassets-cache/
