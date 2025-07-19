@@ -15,7 +15,7 @@ The goal is to show the smallest fully‑working agent.
 ```bash
 # 1  Clone & install
 git clone https://github.com/meli-h/Basic-AI-Agent-.git
-cd Basic-AI-Agent-
+cd AIagent
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt   # or  “uv pip install -r …”
 
